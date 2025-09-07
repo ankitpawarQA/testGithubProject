@@ -7,10 +7,12 @@ public class Test1 {
 		for (int i = 0; i <= 10; i++) {
 			if (i == 5) {
 				continue;
+			} else {
+				System.out.println("hello");
 			}
 			System.out.println(i);
-		}
 
+		}
 	}
 
 }
