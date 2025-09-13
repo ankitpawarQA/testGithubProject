@@ -1,6 +1,9 @@
 package githubTestProject;
 
 public class Test1 {
+	public void m1() {
+		int b = 19;
+	}
 
 	public static void main(String[] args) {
 
