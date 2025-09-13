@@ -5,16 +5,15 @@ public class Test1 {
 		int b = 19;
 	}
 
-	public static void main(String[] args) {
-
-		for (int i = 0; i <= 10; i++) {
-			if (i == 5) {
-				continue;
-			} else {
-				System.out.println("hello");
-			}
-			System.out.println(i);
-		}
+	public void m2() {
+		System.out.println("hello javaa");
 	}
 
+	public void m3() {
+		System.out.println("hellom3");
+	}
+
+	public static void main(String[] args) {
+
+	}
 }
