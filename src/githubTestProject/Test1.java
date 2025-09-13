@@ -1,6 +1,9 @@
 package githubTestProject;
 
 public class Test1 {
+	public void m1() {
+		System.out.println("hello java");
+	}
 
 	public static void main(String[] args) {
 
